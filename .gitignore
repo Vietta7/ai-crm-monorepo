@@ -53,3 +53,11 @@ packages/db/src/generated/
 
 # OS
 Thumbs.db
+
+
+node_modules/
+.next/
+.turbo/
+dist/
+.env
+.env.local
